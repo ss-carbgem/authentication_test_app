@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "721644070514",
+    "project_id": "test-project-c0252",
+    "storage_bucket": "test-project-c0252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721644070514:android:b5a663fd4638e1ca5344eb",
+        "android_client_info": {
+          "package_name": "com.carbgem.sample.sms_email_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721644070514-kb7chtcd40ve0130fnsd3ruemqieo61v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carbgem.sample.sms_email_auth",
+            "certificate_hash": "b2a3880b5570bac5a47cbf82ca92c5ec543e6f83"
+          }
+        },
+        {
+          "client_id": "721644070514-2l69c2fg71qd3u4fs623n87dinbeeght.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-51bKWhSQpqLD6xxfHhwcv4xbhtw-EKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721644070514-2l69c2fg71qd3u4fs623n87dinbeeght.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721644070514-647i1b6qdm717guuci5a4oa23oi7efkf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carbgem.sample.smsEmailAuth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721644070514:android:b98c7fb954be2a355344eb",
+        "android_client_info": {
+          "package_name": "com.example.authentication_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721644070514-2l69c2fg71qd3u4fs623n87dinbeeght.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-51bKWhSQpqLD6xxfHhwcv4xbhtw-EKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721644070514-2l69c2fg71qd3u4fs623n87dinbeeght.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721644070514-647i1b6qdm717guuci5a4oa23oi7efkf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carbgem.sample.smsEmailAuth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
